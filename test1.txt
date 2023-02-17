@@ -1,0 +1,17 @@
+sources demands
+4	3
+supply
+10	30	40	20
+demand
+20	50	30 
+variable cost
+2	3	4
+3	2	1
+1	4	3
+4	5	2
+fixed cost
+10	30	20
+10	30	20
+10	30	20
+10	30	20
+
